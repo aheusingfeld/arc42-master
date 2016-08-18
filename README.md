@@ -2,7 +2,7 @@
 
 The golden master for the arc42 template. All other templates are generated from this one.
 
-This is the right palce if you want to contribute to the content of the template.
+This is the right place if you want to contribute to the content of the template.
 
 If you find a typo or have another suggestion on how ot improve the content, fork this project, apply your change and create a pull request.
 
